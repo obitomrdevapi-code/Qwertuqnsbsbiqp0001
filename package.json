@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-bot-vercel",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+},
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "pino": "^8.0.0"
+}
+}
